@@ -24,6 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // #define USE_SERIAL
 #define USE_I2C
+#define DISABLE_SPACE_CADET_ROLLOVER
+#define TAPPING_TERM 150
 
 /* Select hand configuration */
 
